@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ian and I’m currently studying Computer Science at Arizona State University. I want to become a game developer one day, so I’m continuously trying to learn how to make great games. I specialize in Unity as of now, but I’m trying to expand my knowledge into more engines whenever I find free time to do so.
+My name is Zuno and I’m a game developer. Longer Bio is TBD lol
 
 <!--
 **FalconKiaT/falconkiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
